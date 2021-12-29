@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm YunJae Jin, back_end developer 👨‍💻 studing since 2021-4 🚀</div>  
+### <div align="center">I'm YunJae Jin, back_end developement 👨‍💻 studing since 2021-4 🚀</div>  
   
 
 - 🔭 I’m currently working on [Github Profilinator](https://github.com/jinyun3075/gamgyulmarket)  
