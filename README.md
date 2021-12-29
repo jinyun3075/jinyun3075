@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning Node.JS and express
   
 
-- ❓ [Resume](https://jinyun3075.github.io/profile-html-css)
+- ❓ [Resume](https://jinyun3075.github.io/resume/)
   
 
 <br/>  
