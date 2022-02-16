@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on [Github](https://github.com/jinyun3075/gamgyulserver)  
   
 
-- 🌱 I’m currently learning Node and Express
+- 🌱 I’m currently learning Node.js and Express
   
 
 - ❓ [Resume!!](https://jinyun3075.github.io/resume/)
