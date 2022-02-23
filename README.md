@@ -6,7 +6,7 @@
 ### <div align="center">I'm YunJae Jin, back_end developement 👨‍💻 studing since 2021-4 🚀</div>  
   
 
-- 🔭 I’m currently working on [Github](https://github.com/jinyun3075/gamgyulserver)  
+- 🔭 I’m currently working on [Github](https://github.com/jinyun3075/NePool)  
   
 
 - 🌱 I’m currently learning Node.js and Express
