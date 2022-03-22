@@ -1,8 +1,3 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">I'm YunJae Jin, back_end developement 👨‍💻 studing since 2021-4 🚀</div>  
   
 
@@ -12,7 +7,7 @@
 - 🌱 I’m currently learning Node.js and Express
   
 
-- ❓ [Resume!!](https://jinyun3075.github.io/resume/)
+- ❓ [Resume!!](https://glow-fortnight-4c2.notion.site/Back_end-1971a665f40f439a90ab40a5f06e1716)
   
 
 <br/>  
