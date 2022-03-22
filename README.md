@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on [Github](https://github.com/jinyun3075/NePool/tree/server)  
   
 
-- 🌱 I’m currently learning Node.js and Express
+- 🌱 I’m currently learning Spring Boot
   
 
 - ❓ [Resume!!](https://glow-fortnight-4c2.notion.site/Back_end-1971a665f40f439a90ab40a5f06e1716)
