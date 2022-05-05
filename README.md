@@ -1,7 +1,7 @@
 ## <div align="center">I'm YunJae Jin, Back_end Development 👨‍💻 studing since 2021-04 🚀</div>  
   
 
-- 🔭 I’m currently working on [Github](https://github.com/jinyun3075/NePool/tree/server)  
+- 🔭 I’m currently working on [Github](https://github.com/jinyun3075/bokjips)  
   
 
 - 🌱 I’m currently learning Spring Boot
