@@ -1,4 +1,4 @@
-## <div align="center">I'm YunJae Jin, Development 👨‍💻 studing since 2021-04 🚀</div>  
+## <div align="center">I'm YunJae Jin, Development 👨‍💻 studying since 2021-04 🚀</div>  
   
 
 - 🔭 I’m currently working on [Github](https://github.com/jinyun3075/bokjips)  
