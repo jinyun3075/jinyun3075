@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Spring Boot
   
 
-- ❓ [Resume!!](https://glow-fortnight-4c2.notion.site/Back_end-1971a665f40f439a90ab40a5f06e1716)
+- ❓ [Resume!!](https://glow-fortnight-4c2.notion.site/Jin-Yun-Jae-d06d7fe519d64891ad86d1340c4308be)
   
 
 <br/>  
