@@ -1,7 +1,7 @@
 ## <div align="center">I'm YunJae Jin, Development 👨‍💻 studying since 2021-04 🚀</div>  
   
 
-- 🔭 I’m currently working on [Github](https://github.com/jinyun3075/bokjips)  
+- 🔭 I’m currently working on [천재교과서](https://mid.milkt.co.kr)  
   
 
 - 🌱 I’m currently learning Spring Boot
