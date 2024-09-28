@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on [천재교과서](https://mid.milkt.co.kr)  
   
 
-- 🌱 I’m currently learning Spring Boot
+- 🌱 I’m currently learning Unity
   
 
 - ❓ Resume [Notion](https://glow-fortnight-4c2.notion.site/Jin-Yun-Jae-d06d7fe519d64891ad86d1340c4308be)
