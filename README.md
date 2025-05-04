@@ -1,11 +1,4 @@
-## <div align="center">I'm YunJae Jin, Development 👨‍💻 studying since 2021-04 🚀</div>  
-  
-
-- 🔭 I’m currently working on [천재교과서](https://mid.milkt.co.kr)  
-  
-
-- 🌱 I’m currently learning Unity
-  
+## <div align="center">I'm YunJae Jin, Development 👨‍💻 studying since 2021-04 🚀</div>    
 
 - ❓ Resume [Notion](https://glow-fortnight-4c2.notion.site/Jin-Yun-Jae-d06d7fe519d64891ad86d1340c4308be)
   
