@@ -1,6 +1,7 @@
 ## <div align="center">I'm YunJae Jin, Development 👨‍💻 studying since 2021-04 🚀</div>    
 
-- ❓ Resume [Notion](https://glow-fortnight-4c2.notion.site/Jin-Yun-Jae-d06d7fe519d64891ad86d1340c4308be)
+- ❓ [Notion](https://glow-fortnight-4c2.notion.site/Jin-Yun-Jae-d06d7fe519d64891ad86d1340c4308be)
+- ❓ [Blog](https://blog.naver.com/jinyun3075)
   
 
 <br/>  
